@@ -16,8 +16,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 </div>
 
-
-
 Here are some ideas to get you started:-->
 <hr/>
 🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
@@ -59,12 +57,8 @@ Here are some ideas to get you started:-->
 
 
 
-<a href="https://github.com/chhavi48-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/vishalpadaswan3-cmd/github-readme-activity-graph"><img alt="vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
    
-
-
-
-
 
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpadaswan3" alt="vishal" /> </h3>
@@ -78,6 +72,7 @@ Here are some ideas to get you started:-->
 <a href="https://twitter.com/@PadswanVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/vishal-padaswan-478aa2230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
+<a href="https://vishalpadaswan3.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </hr>
 
 ## 📊 My Github Stats
