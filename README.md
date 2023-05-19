@@ -82,10 +82,10 @@ Here are some ideas to get you started:-->
 
 ![GitHub metrics](https://metrics.lecoq.io/vishalpadaswan3) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishalpadaswan3&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishalpadaswan3&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/vishalpadaswan3/github-readme-activity-graph)
 
 
-<a href="http://www.github.com/chhavi48" align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishalpadaswan3&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishal 💁‍♂️🤷‍♂️ GitHub stats" /></a>
+<a href="http://www.github.com/vishalpadaswan3" align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishalpadaswan3&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishal 💁‍♂️🤷‍♂️ GitHub stats" /></a>
 </hr>
 
 
