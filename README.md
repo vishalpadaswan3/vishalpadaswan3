@@ -1,95 +1,101 @@
+<!-- Hello Message -->
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
+</h1>
 
-
-<h1 align="center">Hi , I'm Vishal Padaswan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-From Maharashtra, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
-
-I am skilled in HTML, CSS, Javascript, ReactJS Basics ,Expressjs, NodeJS. I am good in data structure and algorithms.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+<!-- About -->
+<p align="center">
+  <em>
+    Hi, I'm Vishal, a Masai School Graduate <br>
+    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;                  <img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
+  </em>
 </p>
-     
 
-
-
-
+<!-- Coder Uncle Pic -->
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/hJtJcHjCYPN2o/giphy.gif" width="800"/>
 </div>
 
-Here are some ideas to get you started:-->
-<hr/>
-🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<!-- Trophies -->
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishek1494k&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpadaswan3" /> </p>
+<!-- <p align="center"> <a href="https://twitter.com/abhishek1494k" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek1494k?logo=twitter&style=for-the-badge" alt="abhishek1494k" /></a> </p> -->
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=vishalpadaswan3&theme=monokai" alt="vishalpadaswan3" /></a> </p>
+<hr>
 
-✔️  I aspire to work as a programmer.
+  <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+<!-- - 🔭 I’m currently working on [HomeDecor.com](https://github.com/abhishek1494k/valid-morning-8854) -->
 
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-✔️ Currently looking for opportunities as a Full Stack developer to help me learn and grow as a web developer.
-<hr/>
-<h2>languge and tools</h2>
-<h5>HTML , CSS ,SCSS, javascript , NPM,bootstrap,Wordpress,css animation,gitbash,React basics, UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="50px"/>
-<img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" height="50px" width="50px"/>
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="50px" width="50px"/>
-  <img src="https://store-images.s-microsoft.com/image/apps.45991.14451170867457452.5130caab-3678-4c57-a404-316d66b8950e.02f1392d-5afb-4213-94a0-66877e59fce0?mode=scale&q=90&h=300&w=300" height="50px" width="50px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX5qY-GeZwBiFFuagdnZ7ajHBVVXuMF4r8BDy3-qLuA-nk1Pm2A9z5WfdpaLBVCMQv8Y&usqp=CAU" height="50px" width="50px"/>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndp6hGNdHEnGuY6sS79rMgs29ejdYmvNrj09in407znQA-XhUQUFwYi9AJKfO7dP5sEA&usqp=CAU"  height="50px" width="50px"/>
-    <img src="https://notifystatus.io/images/parent/npmjs.png" height="50px" width="50px"/>
-    <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" height="50px" width="50px"/>
-  <img src="https://logowik.com/content/uploads/images/php.jpg" height="50px" width="50px"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" height="50px" width="50px"/>
-   <img src="https://spyadav14699.github.io/portfolio/image/svgs/redux.svg" height="50px" width="50px"/>
-     <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="50px" width="50px"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  height="50px" width="50px"/>
-  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"  height="50px" width="50px"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="50px" width="50px"/>
-    <img src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png" height="50px" width="50px"/>
-     
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpg1FHbM3w7uVEWGU52kCtxO1lbhE9Yu8aQ&usqp=CAU" height="50px" width="50px"/>
+- 👯I collaborated for **[NYKAA.com](https://github.com/vishalpadaswan3/slick-art-7157)**
 
-     
-</div> 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vishalpadaswan3.github.io/)**
 
+<!-- - 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5** -->
 
+- 📫 How to reach me **vishalpadaswan@gmail.com**
 
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/15CTVzRjLYV5Wz-K3_MbijdmL2joEGZO3/view?usp=sharing">Resume</a>**
 
-<!-- <a href="https://github.com/vishalpadaswan3-cmd/github-readme-activity-graph"><img alt="vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+- ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
+<hr>
+
+<!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
+<!--  <p align="center">
+ <i><h3 align="center">Tech Stacks:</h3></i>
+ <div align="center">
    
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
+   
+</div>
+ </p> -->
+
+<h3 align="center">Tech Stack:</h3>
+<p align = "center">
+<img src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png" alt="html" width="55" height="55"/>
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="50" height="55"/>
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="50" height="50"/>
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="ts" width="50" height="50"/> -->
+<!-- <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="50" height="50"/> -->
+<!--   <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/Chakra.png" alt="chakraui" width="50" height="50"/> -->
+<img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/nodejs.png" alt="nodejs" width="50" height="50"/>
+<img src="https://res.cloudinary.com/kc-cloud/images/f_auto,q_auto/v1651772163/expressjslogo/expressjslogo.webp?_i=AA" alt="express" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mongodb-leaf.png" alt="mongo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mysql-logo.png" alt="mysql" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/240px-Socket-io.svg.png" alt="socket" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/1024px-Oauth_logo.svg.png" alt="Oauth" width="50" height="50"/>
+</p>
+<hr>
+
+<hr>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <p><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek1494k&theme=radical&mode=weekly" />
+  </a></p>
+  <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalpadaswan3&show_icons=true&theme=radical" />
+  </a></p>
+  <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpadaswan3&theme=radical" />
+  </a></p>
+<!--   <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek1494k&theme=radical" />
+  </a></p> -->
+    <p><a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github.com/abhishek1494k/abhishek1494k/blob/output/github-contribution-grid-snake.svg" />
+  </a></p>
+</div>
 
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpadaswan3" alt="vishal" /> </h3>
-  <a href="https://github.com/vishalpadaswan3?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/vishalpadaswan3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p><hr/>
-
- <h2 align="left">🤝Let's Connect</h2>
-
-
-<a href="https://twitter.com/@PadswanVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/vishal-padaswan-478aa2230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-
-<a href="https://vishalpadaswan3.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</hr>
-
-## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=vishalpadaswan3&theme=algolia" align="center" alt="chhavi48" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalpadaswan3&theme=2077" width="100%" />
-
-
-![GitHub metrics](https://metrics.lecoq.io/vishalpadaswan3) 
-
-[![vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishalpadaswan3&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/vishalpadaswan3/github-readme-activity-graph)
-
-
-<a href="http://www.github.com/vishalpadaswan3" align="center"><img src="https://github-readme-stats.vercel.app/api?username=vishalpadaswan3&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishal 💁‍♂️🤷‍♂️ GitHub stats" /></a>
-</hr>
-
-
-
-<p backgroundcolor="black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpadaswan3&show_icons=true&locale=en&layout=compact" alt="vishalpadaswan3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpadaswan3&" alt="vishalpadaswan3" /></p>
+<!-- Footer -->
+<div align="center"><img align="center" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="70%"  /></div>
+<hr>
+<img src="https://semidotinfotech.com/blog/wp-content/uploads/2018/09/What-is-a-Full-Stack-Web-Developer-and-why-you-need-it.jpg" text-align="center" width="100%" height="50%">
+<hr>
