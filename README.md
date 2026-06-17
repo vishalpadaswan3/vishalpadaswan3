@@ -48,7 +48,6 @@ With **over 4 years of professional coding experience**, I thrive at the interse
 
 <!-- GitHub Showcase / Trophies -->
 ### 🏆 GitHub Achievements
-<!-- Fixed Trophy Link with specific row/margin parameters to prevent timeouts -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vishalpadaswan3&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="vishalpadaswan3 trophies" />
@@ -86,12 +85,25 @@ With **over 4 years of professional coding experience**, I thrive at the interse
 
 <hr>
 
-<!-- Contribution Snake -->
-### 🐍 Contribution Activity Graph
+<!-- NEW SECTION: Development Analytics -->
+### 🕰️ Development Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishalpadaswan3/vishalpadaswan3/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalpadaswan3&theme=radical" width="400px" alt="Profile Details" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalpadaswan3&theme=radical&utcOffset=5.5" width="400px" alt="Productive Time" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
