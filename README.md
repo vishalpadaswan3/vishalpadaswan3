@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer | AI Integration Specialist | Competitive Programmer</strong>
+  <strong>Senior Software Engineer | Frontend & AI Specialist | Competitive Programmer</strong>
 </p>
 
 <p align="center">
@@ -22,9 +22,10 @@
 <!-- About Section -->
 ### 🚀 About Me
 
-With **over 4 years of professional coding experience**, I thrive at the intersection of robust backend architecture, fluid user experiences, and cutting-edge automation. Currently, I am a Full-Stack Web Developer at **Brainerhub Solutions**, where I build scalable enterprise web applications and architect performance-driven digital solutions.
+With **over 4 years of professional coding experience**, I thrive at the intersection of scalable architecture, high-performance user interfaces, and cutting-edge automation. As a Senior Software Engineer, I specialize in building complex, interactive frontend experiences using modern frameworks while maintaining a deep understanding of full-stack ecosystems.
 
-* 🏢 **Current Role:** Full-Stack Web Developer at **Brainerhub Solutions**
+* 🏢 **Current Role:** Senior Software Engineer at **Brainerhub Solutions**
+* 💻 **Frontend Mastery:** Deeply experienced in crafting responsive, accessible, and highly optimized web applications using **React**, **Next.js**, and modern **HTML5/CSS3** architectures.
 * 🧠 **AI & LLM Focus:** Passionate about integrating intelligence into modern applications. Proficient in leveraging advanced LLMs (OpenAI API, Claude, Gemini) for workflow automation, architectural optimizations, and prompt engineering to build smart, context-aware web tools.
 * ⚡ **Fun Fact:** Driven by a high-output engineering mindset—boasting **1200+ hours of dedicated coding**, **790+ production commits**, and a history of engineering 5+ comprehensive web platforms from scratch.
 
@@ -33,8 +34,8 @@ With **over 4 years of professional coding experience**, I thrive at the interse
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack & Tooling
 
-**Core Development & Databases**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redis,aws,github,git)](https://skillicons.dev)
+**Core Development, Frontend UI & Databases**
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,redis,aws,github,git)](https://skillicons.dev)
 
 **AI & Engineering Workflows**
 * **LLM Integrations:** OpenAI API, LangChain foundations, Context Embedding
